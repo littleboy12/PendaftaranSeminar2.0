@@ -4,6 +4,14 @@
 - **NAMA   : ALDI TULUS P**
 - **NIM    : 2200018097**
 - **KELAS  : C**
+  
+- **NAMA   : JOY ADRIANSYAH**
+- **NIM    : 2200018107**
+- **KELAS  : C**
+
+- **NAMA   : IVAN DANY JESICCA**
+- **NIM    : -----**
+- **KELAS  : -**
 
 ## Deskripsi
 Website Pendaftaran Seminar ini adalah sebuah aplikasi berbasis web yang digunakan untuk melakukan pendaftaran seminar secara online. Website ini dibuat sebagai tugas kuliah pada mata kuliah **Pemrograman Website Dinamis**.
